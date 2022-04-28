@@ -21,13 +21,6 @@ int numbers::fizzbuzz()
         return 0;
     }
 }
-void numbers::loop(int i)
-{
-    for (int j = 0; j < i; j++)
-    {
-        num = j;
-    }
-}
 void numbers::display(int i)
 {
     for (int j = 1; j < i + 1; j++)

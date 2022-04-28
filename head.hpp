@@ -9,6 +9,5 @@ class numbers
 
 public:
     int fizzbuzz();
-    void loop(int i);
     void display(int i);
 };
