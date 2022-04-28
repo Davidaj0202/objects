@@ -2,11 +2,13 @@
 #include <vector>
 using namespace std;
 
-class numbers{
+class numbers
+{
     int num;
     bool is_fizz;
     bool is_buzz;
-    public:
+
+public:
     int fizzbuzz();
     void loop(int i);
     void display(int i);
