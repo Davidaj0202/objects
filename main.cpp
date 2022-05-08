@@ -4,9 +4,11 @@
 #include <string>
 #include <ctime>
 #include <vector>
+#include <algorithm>
 #include "head.hpp"
 
-int main(){
+int main()
+{
     class words hello;
     hello.test();
 }
